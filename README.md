@@ -45,11 +45,3 @@ A Python REST integration project working with Google services/APIs.
 Automated login and browser-flow scripting — a foundation for larger automation and testing pipelines.
 
 <!-- Tip: pin these 4-6 repos on your profile so they show first. -->
-
----
-
-## 📊 GitHub Stats
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaykumarmanthena&show_icons=true&theme=default&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarmanthena&layout=compact&theme=default)
