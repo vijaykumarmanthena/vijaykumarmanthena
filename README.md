@@ -7,8 +7,7 @@ I build backend services, REST APIs, and automation/scraping tools in Python. I 
 - 🔭 Focused on backend development and automation with Python
 - 🛠️ Comfortable across the stack: API design, data extraction, scripting, and deployment
 - 🌱 Always sharpening my skills in scalable backend design and clean, testable code
-- 📫 Reach me: **vijaykumarmanthena@gmail.com**
-- 💼 LinkedIn: [vijay-kumar-manthena](https://www.linkedin.com/in/vijay-kumar-manthena)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vijay-kumar-manthena)
 
 ---
 
@@ -54,9 +53,3 @@ Automated login and browser-flow scripting — a foundation for larger automatio
 ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaykumarmanthena&show_icons=true&theme=default&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarmanthena&layout=compact&theme=default)
-
----
-
-## 🤝 Let's Connect
-
-I'm open to backend and automation roles and interesting collaborations. The fastest way to reach me is email or LinkedIn above.
